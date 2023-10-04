@@ -6,3 +6,5 @@
 1⃙0⃙1⃙8⃙8⃙u⃙0⃙_⃙a⃙1⃙8⃙8
 1⃙0⃙1⃙8⃙8⃙u⃙0⃙_⃙a⃙1⃙8⃙8
 1⃙0⃙2⃙5⃙2⃙u⃙0⃙_⃙a⃙2⃙5⃙2
+1|x|H|A|M|A|x|0|x|H|A|M|A|x|1|x|H|A|M|A|x|8|x|H|A|M|A|x|8|x|H|A|M|A|x|u|x|H|A|M|A|x|0|x|H|A|M|A|x|_|x|H|A|M|A|x|a|x|H|A|M|A|x|1|x|H|A|M|A|x|8|x|H|A|M|A|x|8
+1|x|H|A|M|A|x|0|x|H|A|M|A|x|1|x|H|A|M|A|x|8|x|H|A|M|A|x|8|x|H|A|M|A|x|u|x|H|A|M|A|x|0|x|H|A|M|A|x|_|x|H|A|M|A|x|a|x|H|A|M|A|x|1|x|H|A|M|A|x|8|x|H|A|M|A|x|8
